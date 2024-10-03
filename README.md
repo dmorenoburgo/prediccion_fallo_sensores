@@ -1,2 +1,2 @@
-# prediccion_fallo_sensores
-Proyecto de predicción de fallos en máquinas industriales utilizando datos proporcionados por múltiples sensores.
+# Proyecto de predicción de fallos en maquinas industriales
+El objetivo de este proycto es desarrollar un modelo de Machine Learning capaz de predecir fallos en máquinas industriales utilizando datos proporcionados por múltiples sensores. Al identificar patrones que preceden a un fallo, el modelo ayudará a implementar mantenimiento predictivo, optimizando los tiempo de operación y reduciendo el tiempo de inactividad de las máquinas.
